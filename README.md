@@ -33,7 +33,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 ## 📁 Estrutura do Repositório
 
 ```bash
-.
+
 ├── testes-carga/
 │   ├── carga-10-usuarios.jmx
 │   ├── carga-30-usuarios.jmx
