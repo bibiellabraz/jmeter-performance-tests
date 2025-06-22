@@ -1,16 +1,16 @@
-# 🧪 Testes de Performance com JMeter e BlazeMeter
+#  Testes de Performance com JMeter e BlazeMeter
 
 Este repositório reúne testes de performance desenvolvidos com **Apache JMeter** e **BlazeMeter**, aplicados em diferentes contextos de aplicações web. O objetivo é demonstrar minhas habilidades práticas em testes de carga, análise de desempenho e automação de simulações com múltiplos usuários.
 
 ---
 
-## 🚀 Objetivo
+##  Objetivo
 
 Avaliar a performance de aplicações através da simulação de acessos simultâneos, verificando tempo de resposta, status das requisições e estabilidade do sistema sob carga.
 
 ---
 
-## ⚙️ Ferramentas Utilizadas
+## ⚙ Ferramentas Utilizadas
 
 - [Apache JMeter](https://jmeter.apache.org/)
 - [BlazeMeter](https://www.blazemeter.com/)
@@ -20,7 +20,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ---
 
-## 📌 Tipos de Testes Realizados
+##  Tipos de Testes Realizados
 
 - 🔹 Teste de Carga com 1, 10, 30 e 100 usuários simultâneos  
 - 🔹 Teste de Estresse com aumento progressivo de usuários  
@@ -44,7 +44,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 └── README.md
 
 ---
-
+---
 👩‍💻 Sobre mim
 Meu nome é Gabriella Braz, sou Analista de QA Jr com foco em testes manuais, testes automatizados com Cypress e testes de performance com JMeter e BlazeMeter. Também estudo sobre qualidade de software, automação e usabilidade.
 
