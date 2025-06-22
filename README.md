@@ -32,7 +32,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ## 📁 Estrutura do Repositório
 
-bash
+```bash
 
 ├── testes-carga/
 │   ├── carga-10-usuarios.jmx
@@ -42,13 +42,3 @@ bash
 ├── testes-estresse/
 │   └── estresse-100-usuarios.jmx
 └── README.md
-
----
-
-👩‍💻 Sobre mim
-Meu nome é Gabriella Braz, sou Analista de QA Jr com foco em testes manuais, testes automatizados com Cypress e testes de performance com JMeter e BlazeMeter. Também estudo sobre qualidade de software, automação e usabilidade.
-
-Contato
-📧 E-mail: bibiellabraz@gmail.com
-
-
