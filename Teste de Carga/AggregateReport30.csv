@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1752007921641,216,https://bugbank.netlify.app/,200,OK,Thread Group 1-2,text,true,,24205,500,3,3,https://bugbank.netlify.app/,176,0,114
+1752007921477,381,https://bugbank.netlify.app/,200,OK,Thread Group 1-1,text,true,,24205,500,3,3,https://bugbank.netlify.app/,346,0,278
+1752007921810,146,https://bugbank.netlify.app/,200,OK,Thread Group 1-3,text,true,,24205,500,3,3,https://bugbank.netlify.app/,113,0,79
+1752007921976,151,https://bugbank.netlify.app/,200,OK,Thread Group 1-4,text,true,,24205,500,4,4,https://bugbank.netlify.app/,117,0,84
+1752007922145,187,https://bugbank.netlify.app/,200,OK,Thread Group 1-5,text,true,,24205,500,6,6,https://bugbank.netlify.app/,146,0,107
+1752007922477,163,https://bugbank.netlify.app/,200,OK,Thread Group 1-7,text,true,,24205,500,7,7,https://bugbank.netlify.app/,117,0,82
+1752007922645,220,https://bugbank.netlify.app/,200,OK,Thread Group 1-8,text,true,,24205,500,9,9,https://bugbank.netlify.app/,165,0,90
+1752007922311,584,https://bugbank.netlify.app/,200,OK,Thread Group 1-6,text,true,,24206,500,9,9,https://bugbank.netlify.app/,555,0,75
+1752007922811,169,https://bugbank.netlify.app/,200,OK,Thread Group 1-9,text,true,,24205,500,10,10,https://bugbank.netlify.app/,135,0,96
+1752007922977,174,https://bugbank.netlify.app/,200,OK,Thread Group 1-10,text,true,,24205,500,11,11,https://bugbank.netlify.app/,130,0,85
+1752007923143,154,https://bugbank.netlify.app/,200,OK,Thread Group 1-11,text,true,,24205,500,11,11,https://bugbank.netlify.app/,122,0,76
+1752007923310,196,https://bugbank.netlify.app/,200,OK,Thread Group 1-12,text,true,,24201,500,13,13,https://bugbank.netlify.app/,161,0,87
+1752007923477,149,https://bugbank.netlify.app/,200,OK,Thread Group 1-13,text,true,,24205,500,13,13,https://bugbank.netlify.app/,116,0,81
+1752007923645,153,https://bugbank.netlify.app/,200,OK,Thread Group 1-14,text,true,,24201,500,14,14,https://bugbank.netlify.app/,121,0,87
+1752007923811,146,https://bugbank.netlify.app/,200,OK,Thread Group 1-15,text,true,,24205,500,15,15,https://bugbank.netlify.app/,112,0,80
+1752007923978,158,https://bugbank.netlify.app/,200,OK,Thread Group 1-16,text,true,,24205,500,16,16,https://bugbank.netlify.app/,125,0,84
+1752007924145,153,https://bugbank.netlify.app/,200,OK,Thread Group 1-17,text,true,,24205,500,17,17,https://bugbank.netlify.app/,112,0,80
+1752007924312,156,https://bugbank.netlify.app/,200,OK,Thread Group 1-18,text,true,,24201,500,18,18,https://bugbank.netlify.app/,118,0,77
+1752007924477,149,https://bugbank.netlify.app/,200,OK,Thread Group 1-19,text,true,,24205,500,19,19,https://bugbank.netlify.app/,114,0,82
+1752007924646,181,https://bugbank.netlify.app/,200,OK,Thread Group 1-20,text,true,,24205,500,21,21,https://bugbank.netlify.app/,143,0,102
+1752007924813,153,https://bugbank.netlify.app/,200,OK,Thread Group 1-21,text,true,,24205,500,21,21,https://bugbank.netlify.app/,112,0,77
+1752007924981,158,https://bugbank.netlify.app/,200,OK,Thread Group 1-22,text,true,,24205,500,22,22,https://bugbank.netlify.app/,117,0,78
+1752007925147,129,https://bugbank.netlify.app/,200,OK,Thread Group 1-23,text,true,,24205,500,23,23,https://bugbank.netlify.app/,102,0,74
+1752007925314,163,https://bugbank.netlify.app/,200,OK,Thread Group 1-24,text,true,,24201,500,24,24,https://bugbank.netlify.app/,133,0,93
+1752007925481,172,https://bugbank.netlify.app/,200,OK,Thread Group 1-25,text,true,,24201,500,26,26,https://bugbank.netlify.app/,116,0,78
+1752007925650,148,https://bugbank.netlify.app/,200,OK,Thread Group 1-26,text,true,,24205,500,26,26,https://bugbank.netlify.app/,112,0,79
+1752007925816,142,https://bugbank.netlify.app/,200,OK,Thread Group 1-27,text,true,,24205,500,27,27,https://bugbank.netlify.app/,105,0,71
+1752007925981,145,https://bugbank.netlify.app/,200,OK,Thread Group 1-28,text,true,,24205,500,28,28,https://bugbank.netlify.app/,112,0,77
+1752007926150,146,https://bugbank.netlify.app/,200,OK,Thread Group 1-29,text,true,,24201,500,29,29,https://bugbank.netlify.app/,111,0,77
+1752007926316,140,https://bugbank.netlify.app/,200,OK,Thread Group 1-30,text,true,,24205,500,30,30,https://bugbank.netlify.app/,107,0,72
+1752007969348,163,https://bugbank.netlify.app/home,200,OK,Thread Group 1-1,text,true,,21914,504,30,30,https://bugbank.netlify.app/home,110,0,76
+1752007921473,544,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,46119,1004,30,30,null,456,47495,354
+1752007969446,149,https://bugbank.netlify.app/home,200,OK,Thread Group 1-3,text,true,,21914,504,29,29,https://bugbank.netlify.app/home,116,0,81
+1752007921809,295,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,46119,1004,29,29,null,229,47492,160
+1752007969617,149,https://bugbank.netlify.app/home,200,OK,Thread Group 1-4,text,true,,21914,504,28,28,https://bugbank.netlify.app/home,105,0,71
+1752007921975,300,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,46119,1004,28,28,null,222,47492,155
+1752007969348,468,https://bugbank.netlify.app/home,200,OK,Thread Group 1-2,text,true,,21915,504,27,27,https://bugbank.netlify.app/home,381,0,84
+1752007921640,684,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,46120,1004,27,27,null,557,47493,198
+1752007969822,144,https://bugbank.netlify.app/home,200,OK,Thread Group 1-5,text,true,,21910,504,26,26,https://bugbank.netlify.app/home,113,0,77
+1752007922144,331,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,46115,1004,26,26,null,259,47491,184
+1752007970130,156,https://bugbank.netlify.app/home,200,OK,Thread Group 1-7,text,true,,21914,504,25,25,https://bugbank.netlify.app/home,113,0,77
+1752007922476,319,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,46119,1004,25,25,null,230,47492,159
+1752007970356,157,https://bugbank.netlify.app/home,200,OK,Thread Group 1-8,text,true,,21914,504,24,24,https://bugbank.netlify.app/home,124,0,85
+1752007922644,377,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,46119,1004,24,24,null,289,47492,175
+1752007970386,173,https://bugbank.netlify.app/home,200,OK,Thread Group 1-6,text,true,,21914,504,23,23,https://bugbank.netlify.app/home,129,0,97
+1752007922310,757,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,46120,1004,23,23,null,684,47493,172
+1752007970470,165,https://bugbank.netlify.app/home,200,OK,Thread Group 1-9,text,true,,21914,504,22,22,https://bugbank.netlify.app/home,129,0,91
+1752007922810,334,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,46119,1004,22,22,null,264,47491,187
+1752007970642,164,https://bugbank.netlify.app/home,200,OK,Thread Group 1-10,text,true,,21914,504,21,21,https://bugbank.netlify.app/home,121,0,86
+1752007922976,338,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,46119,1004,21,21,null,251,47492,171
+1752007970787,158,https://bugbank.netlify.app/home,200,OK,Thread Group 1-11,text,true,,21914,504,20,20,https://bugbank.netlify.app/home,120,0,83
+1752007923142,312,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-11,,true,,46119,1004,20,20,null,242,47492,159
+1752007970997,187,https://bugbank.netlify.app/home,200,OK,Thread Group 1-12,text,true,,21910,504,19,19,https://bugbank.netlify.app/home,126,0,80
+1752007923309,383,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-12,,true,,46111,1004,19,19,null,287,47493,167
+1752007971117,189,https://bugbank.netlify.app/home,200,OK,Thread Group 1-13,text,true,,21914,504,18,18,https://bugbank.netlify.app/home,157,0,117
+1752007923476,338,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-13,,true,,46119,1004,18,18,null,273,47492,198
+1752007971288,197,https://bugbank.netlify.app/home,200,OK,Thread Group 1-14,text,true,,21914,504,17,17,https://bugbank.netlify.app/home,166,0,86
+1752007923644,350,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-14,,true,,46115,1004,17,17,null,287,47492,173
+1752007971448,137,https://bugbank.netlify.app/home,200,OK,Thread Group 1-15,text,true,,21914,504,16,16,https://bugbank.netlify.app/home,102,0,71
+1752007923810,283,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-15,,true,,46119,1004,16,16,null,214,47493,151
+1752007971627,173,https://bugbank.netlify.app/home,200,OK,Thread Group 1-16,text,true,,21914,504,15,15,https://bugbank.netlify.app/home,134,0,93
+1752007923977,331,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-16,,true,,46119,1004,15,15,null,259,47493,177
+1752007971788,131,https://bugbank.netlify.app/home,200,OK,Thread Group 1-17,text,true,,21914,504,14,14,https://bugbank.netlify.app/home,96,0,68
+1752007924145,284,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-17,,true,,46119,1004,14,14,null,208,47491,148
+1752007971958,153,https://bugbank.netlify.app/home,200,OK,Thread Group 1-18,text,true,,21914,504,13,13,https://bugbank.netlify.app/home,115,0,83
+1752007924311,309,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-18,,true,,46115,1004,13,13,null,233,47492,160
+1752007972116,161,https://bugbank.netlify.app/home,200,OK,Thread Group 1-19,text,true,,21910,504,12,12,https://bugbank.netlify.app/home,128,0,91
+1752007924476,310,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-19,,true,,46115,1004,12,12,null,242,47492,173
+1752007972317,150,https://bugbank.netlify.app/home,200,OK,Thread Group 1-20,text,true,,21914,504,11,11,https://bugbank.netlify.app/home,113,0,79
+1752007924645,331,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-20,,true,,46119,1004,11,11,null,256,47492,181
+1752007972456,149,https://bugbank.netlify.app/home,200,OK,Thread Group 1-21,text,true,,21914,504,10,10,https://bugbank.netlify.app/home,115,0,80
+1752007924812,302,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-21,,true,,46119,1004,10,10,null,227,47491,157
+1752007972628,147,https://bugbank.netlify.app/home,200,OK,Thread Group 1-22,text,true,,21914,504,9,9,https://bugbank.netlify.app/home,111,0,80
+1752007924980,305,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-22,,true,,46119,1004,9,9,null,228,47490,158
+1752007972766,151,https://bugbank.netlify.app/home,200,OK,Thread Group 1-23,text,true,,21914,504,8,8,https://bugbank.netlify.app/home,114,0,81
+1752007925147,280,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-23,,true,,46119,1004,8,8,null,216,47491,155
+1752007972967,142,https://bugbank.netlify.app/home,200,OK,Thread Group 1-24,text,true,,21910,504,7,7,https://bugbank.netlify.app/home,109,0,79
+1752007925313,305,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-24,,true,,46111,1004,7,7,null,242,47491,172
+1752007973144,144,https://bugbank.netlify.app/home,200,OK,Thread Group 1-25,text,true,,21914,504,6,6,https://bugbank.netlify.app/home,108,0,76
+1752007925481,316,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-25,,true,,46115,1004,6,6,null,224,47491,154
+1752007973288,178,https://bugbank.netlify.app/home,200,OK,Thread Group 1-26,text,true,,21914,504,5,5,https://bugbank.netlify.app/home,143,0,82
+1752007925649,326,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-26,,true,,46119,1004,5,5,null,255,47491,161
+1752007973448,157,https://bugbank.netlify.app/home,200,OK,Thread Group 1-27,text,true,,21914,504,4,4,https://bugbank.netlify.app/home,116,0,79
+1752007925815,299,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-27,,true,,46119,1004,4,4,null,221,47491,150
+1752007973615,152,https://bugbank.netlify.app/home,200,OK,Thread Group 1-28,text,true,,21914,504,3,3,https://bugbank.netlify.app/home,118,0,81
+1752007925981,297,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-28,,true,,46119,1004,3,3,null,230,47490,158
+1752007973786,150,https://bugbank.netlify.app/home,200,OK,Thread Group 1-29,text,true,,21914,504,2,2,https://bugbank.netlify.app/home,116,0,80
+1752007926150,296,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-29,,true,,46115,1004,2,2,null,227,47491,157
+1752007973946,149,https://bugbank.netlify.app/home,200,OK,Thread Group 1-30,text,true,,21914,504,1,1,https://bugbank.netlify.app/home,114,0,82
+1752007926315,289,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-30,,true,,46119,1004,1,1,null,221,47492,154
