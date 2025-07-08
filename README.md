@@ -19,10 +19,14 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - Assertions, Timers e Listeners (Dashboards)
 
 ---
+## Plataforma testada
+> https://bugbank.netlify.app/
+
+---
 
 ##  Tipos de Testes Realizados
 
-- 🔹 Teste de Carga com 1, 10, 30 e 100 usuários simultâneos  
+- 🔹 Teste de Carga com 10, 30 e 100 usuários simultâneos  
 - 🔹 Teste de Estresse com aumento progressivo de usuários  
 - 🔹 Validação de tempo de resposta e status HTTP  
 - 🔹 Execução com massa de dados via CSV  
