@@ -46,5 +46,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 |       └── dashboard-carga-30/
 ├── testes-estresse/
 │   └── estresse-100-usuarios.jmx
+|         └── relatorios/
 |         └── dashboard-estresse-100/
 └── README.md
