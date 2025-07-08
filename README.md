@@ -10,7 +10,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ---
 
-## ⚙ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - [Apache JMeter](https://jmeter.apache.org/)
 - [BlazeMeter](https://www.blazemeter.com/)
@@ -34,7 +34,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```bash
 
@@ -42,7 +42,9 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 │   ├── carga-10-usuarios.jmx
 │   ├── carga-30-usuarios.jmx
 │   └── relatorios/
-│       └── dashboard-carga-30/
+│       └── dashboard-carga-10/
+|       └── dashboard-carga-30/
 ├── testes-estresse/
 │   └── estresse-100-usuarios.jmx
+|         └── dashboard-estresse-100/
 └── README.md
