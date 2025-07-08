@@ -19,6 +19,10 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - Assertions, Timers e Listeners (Dashboards)
 
 ---
+## Plataforma testada
+> https://bugbank.netlify.app/
+
+---
 
 ##  Tipos de Testes Realizados
 
