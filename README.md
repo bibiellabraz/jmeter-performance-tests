@@ -39,13 +39,13 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 ```bash
 
 ├── testes-carga/
-│   ├── carga-10-usuarios.jmx
-│   ├── carga-30-usuarios.jmx
+│   ├── carga-10-usuarios.csv
+│   ├── carga-30-usuarios.csv
 │   └── relatorios/
 │       └── dashboard-carga-10/
 |       └── dashboard-carga-30/
 ├── testes-estresse/
-│   └── estresse-100-usuarios.jmx
+│   └── estresse-100-usuarios.csv
 |         └── relatorios/
 |         └── dashboard-estresse-100/
 └── README.md
