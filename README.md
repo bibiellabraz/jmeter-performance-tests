@@ -21,9 +21,9 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 ---
 
 ## Requisitos / Versões
-> Java 23+
-> JMeter v5.6.3 (https://jmeter.apache.org/)
-> BlazeMeter Plugin v6.6.7
+- Java 23+
+- JMeter v5.6.3 (https://jmeter.apache.org/)
+- BlazeMeter Plugin v6.6.7
 
 ## Como executar localmente
 
