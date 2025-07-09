@@ -26,7 +26,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - BlazeMeter Plugin v6.6.7
 
 ## Como executar localmente
-> Ler EXECUTE.md
+> Ler EXECUTE.txt
 
 ---
 
