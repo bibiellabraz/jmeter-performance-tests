@@ -38,13 +38,20 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ```bash
 
-├── testes-carga/
-│   ├── carga-10-usuarios.jmx
-│   ├── carga-30-usuarios.jmx
-│   └── relatorios/
-│       └── dashboard-carga-10/
-|       └── dashboard-carga-30/
-├── testes-estresse/
-│   └── estresse-100-usuarios.jmx
-|         └── dashboard-estresse-100/
+├── load-tests/
+│   ├── AggregateReport10users.csv
+│   ├── AggregateReport30users.csv
+│   └── Report/
+│       └── index/
+|       └── index/
+├── stress-tests/
+│   |── AggregateReport100.csv
+│   ├── SummaryReport100
+│   ├── ViewResultsTree100
+|   └── Report 1/
+|       └── index/
+|   └── Report 2/
+|       └── index/
+|   └── Report 3/
+|       └── index/
 └── README.md
