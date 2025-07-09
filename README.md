@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-23+-blue.svg" />
+  <img src="https://img.shields.io/badge/JMeter-5.6.3-orange.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg" />
+</p>
+
+
 #  Testes de Performance com JMeter e BlazeMeter
 
 Este repositório reúne testes de performance desenvolvidos com **Apache JMeter** e **BlazeMeter**, aplicados em diferentes contextos de aplicações web. O objetivo é demonstrar minhas habilidades práticas em testes de carga, análise de desempenho e automação de simulações com múltiplos usuários.
