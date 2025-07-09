@@ -70,4 +70,5 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 |       └── index/
 │   ├── Plans/
 |       └── TestPlan100.jmx/
+└── LICENSE.md
 └── README.md
