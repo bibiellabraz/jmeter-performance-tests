@@ -19,6 +19,14 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - Assertions, Timers e Listeners (Dashboards)
 
 ---
+
+## Requisitos / Versões
+> Java 23+
+> JMeter v5.6.3
+> BlazeMeter Plugin v6.6.7
+
+---
+
 ## Plataforma testada
 > https://bugbank.netlify.app/
 
@@ -49,8 +57,8 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 |       └── TestPlan30.jmx/
 ├── stress-tests/
 │   |── AggregateReport100.csv
-│   ├── SummaryReport100
-│   ├── ViewResultsTree100
+│   ├── SummaryReport100.csv
+│   ├── ViewResultsTree100.csv
 |   └── Report 1/
 |       └── index/
 |   └── Report 2/
