@@ -44,6 +44,9 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 │   └── Report/
 │       └── index/
 |       └── index/
+├── Plans/
+|   └── TestPlan10.jmx/
+|   └── TestPlan30.jmx/
 ├── stress-tests/
 │   |── AggregateReport100.csv
 │   ├── SummaryReport100
@@ -54,4 +57,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 |       └── index/
 |   └── Report 3/
 |       └── index/
+├── Plans/
+|   └── TestPlan100.jmx/
 └── README.md
