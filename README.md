@@ -34,7 +34,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - BlazeMeter Plugin v6.6.7
 
 ## Como executar localmente
-> Ler EXECUTE
+> Veja EXECUTE para execução passo a passo
 
 ---
 
@@ -72,7 +72,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 │   ├── AggregateReport30users.csv
 │   └── Report/
 │       └── index/
-|       └── index/
 │   ├── Plans/
 |       └── TestPlan10.jmx/
 |       └── TestPlan30.jmx/
@@ -81,9 +80,7 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 │   ├── SummaryReport100.csv
 │   ├── ViewResultsTree100.csv
 |   └── Report 1/
-|       └── index/
 |   └── Report 2/
-|       └── index/
 |   └── Report 3/
 |       └── index/
 │   ├── Plans/
