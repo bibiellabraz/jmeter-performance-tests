@@ -37,11 +37,20 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ##  Tipos de Testes Realizados
 
-- 🔹 Teste de Carga com 10, 30 e 100 usuários simultâneos  
-- 🔹 Teste de Estresse com aumento progressivo de usuários  
-- 🔹 Validação de tempo de resposta e status HTTP  
-- 🔹 Execução com massa de dados via CSV  
+- 🔹 Teste de Carga com 10, 30 e 100 usuários simultâneos
+> Verifica o desempenho da aplicação com um número fixo de usuários simultâneos (10, 30, 100).
+
+- 🔹 Teste de Estresse com aumento progressivo de usuários
+> Avalia o comportamento da aplicação com aumento progressivo de usuários até o limite de quebra.
+
+- 🔹 Validação de tempo de resposta e status HTTP
+> Mede o tempo médio e máximo das requisições com base no status HTTP.
+
+- 🔹 Execução com massa de dados via CSV
+> Valida cenários dinâmicos usando múltiplas credenciais ou dados externos.
+
 - 🔹 Análise de performance com gráficos e relatórios HTML
+> Automatiza a criação de dashboards visuais com base nos testes executados.
 
 
 ---
