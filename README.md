@@ -27,13 +27,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ## Como executar localmente
 
-1. **Rodar Teste de Carga (Exemplo: 10 usuários)**  
-
-jmeter -n \
-       -t load-tests/plans/load_test_plan.jmx \
-       -JUSERS=10 \
-       -l results/load_10.jtl \
-       -e -o load-tests/reports/10-users
 ---
 
 ## Plataforma testada
