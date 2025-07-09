@@ -29,7 +29,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 1. **Rodar Teste de Carga (Exemplo: 10 usuários)**  
 
-```bash
 jmeter -n \
        -t load-tests/plans/load_test_plan.jmx \
        -JUSERS=10 \
