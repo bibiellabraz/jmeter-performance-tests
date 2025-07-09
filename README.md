@@ -37,10 +37,10 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 
 ##  Tipos de Testes Realizados
 
-- 🔹 Teste de Carga com 10, 30 e 100 usuários simultâneos
-> Verifica o desempenho da aplicação com um número fixo de usuários simultâneos (10, 30, 100).
+- 🔹 Teste de Carga com 10 e 30 usuários simultâneos
+> Verifica o desempenho da aplicação com um número fixo de usuários simultâneos (10, 30).
 
-- 🔹 Teste de Estresse com aumento progressivo de usuários
+- 🔹 Teste de Estresse com aumento progressivo de 100 usuários simultâneos
 > Avalia o comportamento da aplicação com aumento progressivo de usuários até o limite de quebra.
 
 - 🔹 Validação de tempo de resposta e status HTTP
