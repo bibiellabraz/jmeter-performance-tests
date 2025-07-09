@@ -25,6 +25,16 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 > JMeter v5.6.3 (https://jmeter.apache.org/)
 > BlazeMeter Plugin v6.6.7
 
+## Como executar localmente
+
+1. **Rodar Teste de Carga (Exemplo: 10 usuários)**  
+
+```bash
+jmeter -n \
+       -t load-tests/plans/load_test_plan.jmx \
+       -JUSERS=10 \
+       -l results/load_10.jtl \
+       -e -o load-tests/reports/10-users
 ---
 
 ## Plataforma testada
@@ -40,19 +50,6 @@ Avaliar a performance de aplicações através da simulação de acessos simult�
 - 🔹 Execução com massa de dados via CSV  
 - 🔹 Análise de performance com gráficos e relatórios HTML
 
----
-
-
-## Como executar localmente
-
-1. **Rodar Teste de Carga (Exemplo: 10 usuários)**  
-
-```bash
-jmeter -n \
-       -t load-tests/plans/load_test_plan.jmx \
-       -JUSERS=10 \
-       -l results/load_10.jtl \
-       -e -o load-tests/reports/10-users
 
 ---
 
